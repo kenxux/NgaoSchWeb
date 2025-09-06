@@ -1,0 +1,24 @@
+# Ignore temporary files
+*.tmp
+*.temp
+/tmp/
+
+# Ignore log files
+*.log
+
+# Ignore IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore backup files
+*.bak
+*.backup
+
+# Don't commit the zip file since we've extracted its contents
+Full-School-Website-master*.zip
